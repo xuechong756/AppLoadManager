@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/dobest/appload/utils/ExtractVersion.java=UTF-8
+encoding//src/com/dobest/appload/utils/GlobalUtils.java=UTF-8
+encoding//src/com/dobest/appload/utils/LogManager.java=UTF-8
+encoding//src/com/dobest/appload/utils/StringManager.java=UTF-8
+encoding//src/com/dobest/appload/utils/URLEncrypt.java=UTF-8
+encoding//war/WEB-INF/db/Readme.txt=UTF-8
+encoding//war/WEB-INF/db/t_appinfor/conf_1_1_xiaomi_\u6CE1\u6CE1\u9F99.properties=UTF-8
+encoding//war/WEB-INF/db/t_appinfor/conf_1_2_xiaomi_\u6CE1\u6CE1\u9F99.properties=UTF-8
+encoding/<project>=UTF-8
